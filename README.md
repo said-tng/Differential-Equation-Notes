@@ -23,9 +23,7 @@ The study was conducted in two distinct phases: **Mathematic** and **Quantum Mec
 | **II** | **Quantum Physics II** | MIT 8.05 (Barton Zwiebach) | Spin-1/2 Systems, Quantum Dynamics, N>2 States |
 
 
-
-
-## Repository Structure 
+## 📂 Repository Structure
 
 ### `/01_Calculus_Foundations`
 * **Focus:** Axiomatic construction of Single Variable Calculus.
@@ -34,21 +32,18 @@ The study was conducted in two distinct phases: **Mathematic** and **Quantum Mec
 
 ### `/02_Multivariable_Calculus_MIT_1802`
 * **Focus:** Vector Analysis and Field Theory.
-* **Content:** Selected derivations and problems focusing on **Line Integrals**, **Green's Theorem**, and **Stokes' Theorem** (essential prerequisites for Electromagnetism).
+* **Content:**
+    * **`Vector_Calculus_Notes.pdf`**: Comprehensive notes covering **Gradient, Divergence, and Curl**. Includes derivations of **Green's Theorem** and **Stokes' Theorem** (essential prerequisites for Electromagnetism).
 
 ### `/03_Linear_Algebra_MIT_1806`
 * **Focus:** Matrix Factorization and Spectral Theory.
 * **Content:**
-    * Detailed notes on **Singular Value Decomposition (SVD)** and the **Spectral Theorem** for Symmetric Matrices.
-    * Exploration of **Positive Definite Matrices** and their role in optimization.
-    * Selected problem sets demonstrating applications in data compression and system stability.
+    * **`Linear_Algebra_Notes.pdf`**: Detailed notes on **Singular Value Decomposition (SVD)** and the **Spectral Theorem** for Symmetric Matrices. Includes exploration of **Positive Definite Matrices** and their role in optimization.
 
 ### `/04_Differential_Equations_MIT_1803`
 * **Focus:** Dynamic Systems and Transform Methods.
 * **Content:**
-    * Analysis of **Non-Homogeneous Linear ODEs** using Variation of Parameters.
-    * Comprehensive study of **Laplace Transforms**, **Convolution Integrals**, and **Delta Functions** for impulse response.
-    * Investigation of **Non-Linear Systems**, including Phase Plane analysis and stability criteria for critical points.
+    * **`Differential_Equations_Notes.pdf`**: Analysis of **Non-Homogeneous Linear ODEs** using Variation of Parameters. Covers **Laplace Transforms**, **Convolution Integrals**, and **Delta Functions** for impulse response.
 
 ### `/05_Quantum_Mechanics_MIT_804_805`
 * **Focus:** Wave mechanics, Operator formalism, and Entanglement.
