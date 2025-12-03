@@ -48,8 +48,8 @@ The study was conducted in two distinct phases: **Mathematic** and **Quantum Mec
 ### `/05_Quantum_Mechanics_MIT_804_805`
 * **Focus:** Wave mechanics, Operator formalism, and Entanglement.
 * **Content:**
-    * **`MIT_804_Notes.pdf`**: Synthesized notes covering the **Schrödinger Equation**, **1D Potentials** (Infinite Well), and the **Harmonic Oscillator** (Algebraic & Analytic methods). Includes analysis of Scattering and Tunneling phenomena.
-    * **`MIT_805_Notes.pdf`**: Advanced notes on **General Formalism** (Dirac Notation), **Spin-1/2 Systems** (Pauli Matrices), and **Angular Momentum**. Detailed derivation of **Bell's Inequalities** and Quantum Entanglement dynamics.
+    * **`Quantum_Physics_1_Notes.pdf`**: Synthesized notes covering the **Schrödinger Equation**, **1D Potentials** (Infinite Well), and the **Harmonic Oscillator** (Algebraic & Analytic methods). Includes analysis of Scattering and Tunneling phenomena.
+    * **`Quantum_Physics_2_Notes.pdf`**: Advanced notes on **General Formalism** (Dirac Notation), **Spin-1/2 Systems** (Pauli Matrices), and **Angular Momentum**. Detailed derivation of **Bell's Inequalities** and Quantum Entanglement dynamics.
     * **`Selected_Hard_Problems.pdf`**: Solutions to high-difficulty problem sets (e.g., Stern-Gerlach experiments).
 
 
